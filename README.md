@@ -15,9 +15,9 @@ A/B tests are very commonly performed by data analysts and data scientists. It i
 For this project, I worked to understand the results of an A/B test run by an e-commerce website.The goal was to help the company understand if they should implement the new page, keep the old page, or perhaps run the experiment longer to make their decision.
 
 #
-[Dataset](https://github.com/abel-keya/Project-Communicate-Data-Findings/blob/master/house_prices.csv):
+[Dataset 1](https://github.com/abel-keya/Project-Analyze-A-B-Test-Results/blob/master/ab_data.csv):
 
-In this project i used the **house_prices** provided in the workspace .The dataset has the following features:
+In this project i used the **** provided in the workspace .The dataset has the following features:
 The dataset contains 6028 records, and 7 columns.
  
 * price - Price of the house
@@ -25,6 +25,8 @@ The dataset contains 6028 records, and 7 columns.
 * bathrooms - Number of Bathrooms
 * style-the archtectural style of the house
 * Neighborhood-the surroundig area where the house located.
+
+[Dataset 2](https://github.com/abel-keya/Project-Analyze-A-B-Test-Results/blob/master/countries.csv):
 
 # Main findings from the exploratory data analysis
 I undertook exploratory data analysis by going through the following steps:
