@@ -19,15 +19,16 @@ For this project, I worked to understand the results of an A/B test run by an e-
 
 In this project i used the **** provided in the workspace .The dataset has the following features:
 The dataset contains 6028 records, and 7 columns.
- 
-* price - Price of the house
-* bedrooms - Number of Bedrooms
-* bathrooms - Number of Bathrooms
-* style-the archtectural style of the house
-* Neighborhood-the surroundig area where the house located.
+ * user_id
+ * timestamp
+ * group
+ * landing_page
+ * converted
 
 [Dataset 2](https://github.com/abel-keya/Project-Analyze-A-B-Test-Results/blob/master/countries.csv):
 
+* user_id	
+* country
 
 # CONTEXT
 
