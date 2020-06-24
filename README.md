@@ -1,13 +1,18 @@
 # Project-Analyze-A-B-Test-Results
-Practical Statistics Learn how to apply inferential statistics and probability to important, real-world scenarios, such as analyzing A/B tests and building supervised learning models.
+
+# Problem statement:
+To help the company understand if they should implement the new page, keep the old page, or perhaps run the experiment longer to make their decision.
 
 
-# Project-Communicate-Data-Findings
-  
  ![pageAB](pageAB.gif) 
  
-# Problem statement:
-Apply design and data visualization principles to the data analysis process by creating visualizations to tell a story with data.
+# Introduction
+
+This repository contains  project work applying Practical inferential statistics and probability to important, real-world scenarios, in analyzing A/B tests and building supervised learning models.
+
+A/B tests are very commonly performed by data analysts and data scientists. It is important that you get some practice working with the difficulties of these
+
+For this project, I worked to understand the results of an A/B test run by an e-commerce website.The goal was to help the company understand if they should implement the new page, keep the old page, or perhaps run the experiment longer to make their decision.
 
 #
 [Dataset](https://github.com/abel-keya/Project-Communicate-Data-Findings/blob/master/house_prices.csv):
@@ -48,18 +53,6 @@ This is because the above factors are intertwined and each has an effect to the 
 # CONTEXT
 
 For this project, you will be working to understand the results of an A/B test run by an e-commerce website. The company has developed a new web page in order to try and increase the number of users who "convert," meaning the number of users who decide to pay for the company's product. Your goal is to work through this notebook to help the company understand if they should implement this new page, keep the old page, or perhaps run the experiment longer to make their decision.
-
-
-# List of resources used during the creation of the project.
-
-* 1.https://julienbeaulieu.gitbook.io/wiki/sciences/programming/data-analysis/data-visualization/univariate-exploration-of-data/bar-chart
-* 2.https://www.darkhorseanalytics.com/blog/data-looks-better-naked
-* 3.https://www.oreilly.com/library/view/python-for-data/9781449323592/ch04.html
-* 4.http://dataviztalk.blogspot.com/2016/02/how-to-add-jitter-to-plot-using-pythons.html
-* 5.https://socviz.co/gettingstarted.html
-* 6.http://yunus.hacettepe.edu.tr/~burkay.genc/courses/pss707_eda/ggplot/ggplot.html#introduction
-* 7.http://cs-tklab.na-inet.jp/~tkouya/python/scipy-lectures/intro/matplotlib/matplotlib.html
-* 8.https://matplotlib.org/3.1.0/tutorials/colors/colormaps.html
 
 # Requirements
 * Anaconda installation
