@@ -28,25 +28,24 @@ The dataset contains 6028 records, and 7 columns.
 
 [Dataset 2](https://github.com/abel-keya/Project-Analyze-A-B-Test-Results/blob/master/countries.csv):
 
-# Description
-I undertook exploratory data analysis by going through the following steps:
-* Univariate Analysis
-* Bivariate Analysis
-* Multivariate Analysis
-
-From the initial plots i discovered that a postive correlation exists between price which can be well handled with Feceted grids. As a result i put in more efforts in Multivariate faceted plot.
- 
-* There is a strong positive correlation between price,style and area in all the three neighbohood 
-* High correlation between area,bathrooms,bedrooms, and price
-* The house prices increases with the increase int the number of bedrooms, with the 8 bedrooms having the highest price figure while 1 bedroom has the lowest.This is surprising because the houses with 0 bedroom have higher prices compared to the 1 bedroom house
-* There are 3 main house styles which have variation in prices in relation to the Neighborhood and house bedrooms/bathroomsVictorian Style is the most popular with the highest percentage approximately 50%, Ranch is the second most popular house styles with approximately 29.9%, Lodge style is least popular accounting to approximately 20.4 %
-
-* Neighborhood B is the most popular with the highest percentage representation at approximately 40.26%,Neighborhood A follows with * * * approximately 31 % while Neighborhood C is the least popular with approximately 28.6%
-
 
 # CONTEXT
 
-For this project, you will be working to understand the results of an A/B test run by an e-commerce website. The company has developed a new web page in order to try and increase the number of users who "convert," meaning the number of users who decide to pay for the company's product. Your goal is to work through this notebook to help the company understand if they should implement this new page, keep the old page, or perhaps run the experiment longer to make their decision.
+ A/B testing, or split testing, presents 50% of users with an alternate version of a webpage in order to test the effectiveness of a particular variable. A/B tests are evaluated based on whether the alternate page achieves a higher conversion rate. To ensure that results are not impacted by uneven sample sizes, it's important to evenly split both page versions among all visitors (hence the term "split testing").
+
+AB Tests and Conversion Rates
+Every page on an ecommerce website promotes a desired action to be taken by visitors, and A/B tests aim to increase the conversion rate of that action. Conversions include:
+
+Buying a product - the primary and most important conversion for an online store
+Subscribing to a service
+Signing up for a newsletter
+Submitting a survey response
+
+# Description
+I undertook  following steps:Introduction
+Part I - Probability
+Part II - A/B Test
+Part III - Regression
 
 # Requirements
 * Anaconda installation
