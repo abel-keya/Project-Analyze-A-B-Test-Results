@@ -45,7 +45,7 @@ Every page on an ecommerce website promotes a desired action to be taken by visi
 
 # Description
 
-I undertook  following steps:
+The project work is divided into the following sections:
 
 
 Introduction
