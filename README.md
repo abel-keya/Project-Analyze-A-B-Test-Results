@@ -4,18 +4,21 @@
 To help the company understand if they should implement the new page, keep the old page, or perhaps run the experiment longer to make their decision.
 
 
- ![pageAB](pageAB.gif) 
+ >>>>>>>>>>>>>>![pageAB](pageAB.gif) 
  
 # Introduction
 
 This repository contains  project work applying Practical inferential statistics and probability to important, real-world scenarios, in analyzing A/B tests and building supervised learning models.
 
+
 A/B tests are very commonly performed by data analysts and data scientists. It is important that you get some practice working with the difficulties of these
+
 
 For this project, I worked to understand the results of an A/B test run by an e-commerce website.The goal was to help the company understand if they should implement the new page, keep the old page, or perhaps run the experiment longer to make their decision.
 
 #
 [Dataset 1](https://github.com/abel-keya/Project-Analyze-A-B-Test-Results/blob/master/ab_data.csv):
+
 
 In this project i used the **** provided in the workspace .The dataset has the following features:
 The dataset contains 6028 records, and 7 columns.
@@ -37,18 +40,23 @@ The dataset contains 6028 records, and 7 columns.
 AB Tests and Conversion Rates
 Every page on an ecommerce website promotes a desired action to be taken by visitors, and A/B tests aim to increase the conversion rate of that action. Conversions include:
 
-Buying a product - the primary and most important conversion for an online store
-Subscribing to a service
-Signing up for a newsletter
-Submitting a survey response
+* Buying a product - the primary and most important conversion for an online store
+* Subscribing to a service
+* Signing up for a newsletter
+* Submitting a survey response
 
 # Description
+
 I undertook  following steps:Introduction
+
 Part I - Probability
+
 Part II - A/B Test
+
 Part III - Regression
 
 # Requirements
+
 * Anaconda installation
 * Google colab
 * Setup instruction
