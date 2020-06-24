@@ -19,16 +19,14 @@ For this project, I worked to understand the results of an A/B test run by an e-
 #
 [Dataset 1](https://github.com/abel-keya/Project-Analyze-A-B-Test-Results/blob/master/ab_data.csv):
 
-
-In this project i used the **** provided in the workspace .The dataset has the following features:
-The dataset contains 6028 records, and 7 columns.
+The dataset has the following features:
  * user_id
  * timestamp
  * group
  * landing_page
  * converted
 
-[Dataset 2](https://github.com/abel-keya/Project-Analyze-A-B-Test-Results/blob/master/countries.csv):
+[Dataset 2](https://github.com/abel-keya/Project-Analyze-A-B-Test-Results/blob/master/countries.csv): The dataset contains the following columns;
 
 * user_id	
 * country
@@ -47,7 +45,10 @@ Every page on an ecommerce website promotes a desired action to be taken by visi
 
 # Description
 
-I undertook  following steps:Introduction
+I undertook  following steps:
+
+
+Introduction
 
 Part I - Probability
 
