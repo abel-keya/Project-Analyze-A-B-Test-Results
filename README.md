@@ -28,7 +28,7 @@ The dataset contains 6028 records, and 7 columns.
 
 [Dataset 2](https://github.com/abel-keya/Project-Analyze-A-B-Test-Results/blob/master/countries.csv):
 
-# Main findings from the exploratory data analysis
+# Description
 I undertook exploratory data analysis by going through the following steps:
 * Univariate Analysis
 * Bivariate Analysis
@@ -42,14 +42,6 @@ From the initial plots i discovered that a postive correlation exists between pr
 * There are 3 main house styles which have variation in prices in relation to the Neighborhood and house bedrooms/bathroomsVictorian Style is the most popular with the highest percentage approximately 50%, Ranch is the second most popular house styles with approximately 29.9%, Lodge style is least popular accounting to approximately 20.4 %
 
 * Neighborhood B is the most popular with the highest percentage representation at approximately 40.26%,Neighborhood A follows with * * * approximately 31 % while Neighborhood C is the least popular with approximately 28.6%
-
-# Choice of the results to put in the explanatory analysis
-
-
-I chose  results on :
-* price distribution
-* price variation with respect Number of bedrooms,bathrooms,Neighborhood and styles
-This is because the above factors are intertwined and each has an effect to the choice of a house and demand.
 
 
 # CONTEXT
