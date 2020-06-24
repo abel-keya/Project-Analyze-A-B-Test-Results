@@ -34,7 +34,7 @@ The dataset contains the following columns;
 * user_id	
 * country
 
-# CONTEXT
+# Context
 
  A/B testing, or split testing, presents 50% of users with an alternate version of a webpage in order to test the effectiveness of a particular variable. A/B tests are evaluated based on whether the alternate page achieves a higher conversion rate. To ensure that results are not impacted by uneven sample sizes, it's important to evenly split both page versions among all visitors (hence the term "split testing").
 
