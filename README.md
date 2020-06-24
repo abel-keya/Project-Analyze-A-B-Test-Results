@@ -26,7 +26,10 @@ The dataset has the following features:
  * landing_page
  * converted
 
-[Dataset 2](https://github.com/abel-keya/Project-Analyze-A-B-Test-Results/blob/master/countries.csv): The dataset contains the following columns;
+[Dataset 2](https://github.com/abel-keya/Project-Analyze-A-B-Test-Results/blob/master/countries.csv): 
+
+
+The dataset contains the following columns;
 
 * user_id	
 * country
