@@ -59,6 +59,8 @@ Part II - A/B Test
 
 Part III - Regression
 
+### Findings/Results
+
 ### probabilities
 The experiment was carried out on a population of 290584 users, 35237 converted. Probability of an individual converting regardless of the page they receive was 0.11959667567149027, the probability of an individual in the control group converting was 0.1203863045004612, probabilityan of an individual in the treatment group converted was 0.11880724790277405 Probability that an individual received the new page or old page was 50% for all the sample population. The convert rate for the new page was 11.96% whereby all the participants had an equal chance of 50% of getting either the old or new page.
 
