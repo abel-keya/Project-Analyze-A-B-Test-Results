@@ -59,6 +59,20 @@ Part II - A/B Test
 
 Part III - Regression
 
+### probabilities
+The experiment was carried out on a population of 290584 users, 35237 converted. Probability of an individual converting regardless of the page they receive was 0.11959667567149027, the probability of an individual in the control group converting was 0.1203863045004612, probabilityan of an individual in the treatment group converted was 0.11880724790277405 Probability that an individual received the new page or old page was 50% for all the sample population. The convert rate for the new page was 11.96% whereby all the participants had an equal chance of 50% of getting either the old or new page.
+
+### Regression analysis
+The null and alternative hypotheses associated with your regression model
+
+H0:β1=0
+
+H1:β1≠0
+
+p-values associated with all the variables were greater than 0.05 which is the recommended value, This differerd because the regression model performs a 2-sided Test, This was an indication that there is no relation between a user seeing either page(old/new) and the conversion .As a result the experiment has a Type I error and the Null hypothesis is rejected.
+
+The test failed to reject the null hypothesis,The ecommerce company is therefore not adviced to change the page.There is no relation between then type of page and the conversion rate.
+
 # Requirements
 
 * Anaconda installation
